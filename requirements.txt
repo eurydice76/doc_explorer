@@ -1,0 +1,4 @@
+python-docx
+pypdf2
+PyQt6
+qtpy
